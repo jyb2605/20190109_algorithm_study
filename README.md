@@ -4,5 +4,5 @@
 
 [BAEKJOON ONLINE JUDGE](https://www.acmicpc.net/problem/16235)
 
-imple implementation issues
+simple implementation issues
 
