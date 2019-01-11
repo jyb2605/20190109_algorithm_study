@@ -12,7 +12,9 @@
 ### 감시
 * [BAEKJOON ONLINE JUDGE](https://www.acmicpc.net/problem/15683)
 * brute forece
-* not yet
+* success(20190111)
+* memory: 1992 KB
+* time: 4 ms
 
 ### 사다리 조작
 * [BAEKJOON ONLINE JUDGE](https://www.acmicpc.net/problem/14684)
