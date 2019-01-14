@@ -17,7 +17,7 @@
 * time: 4 ms
 
 ### 사다리 조작
-* [BAEKJOON ONLINE JUDGE](https://www.acmicpc.net/problem/14684)
+* [BAEKJOON ONLINE JUDGE](https://www.acmicpc.net/problem/15684)
 * brute forece
 * not yet
 
