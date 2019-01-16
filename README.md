@@ -19,7 +19,10 @@
 ### 사다리 조작
 * [BAEKJOON ONLINE JUDGE](https://www.acmicpc.net/problem/15684)
 * brute forece
-* not yet
+* success(20190116)
+* memory: 1988	KB
+* time: 1888 ms
+
 
 
 ### 드래곤 커브
