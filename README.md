@@ -28,5 +28,8 @@
 ### 드래곤 커브
 * [BAEKJOON ONLINE JUDGE](https://www.acmicpc.net/problem/15685)
 * brute forece
-* not yet
+* success(20190116)
+* memory: 2120 KB
+* time: 0 ms
+
 
